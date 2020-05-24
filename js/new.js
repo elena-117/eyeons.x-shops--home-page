@@ -7,8 +7,8 @@ $(document).ready(function () {
     center: true,
     margin: 44,
     navText: [
-      '<img src="../img/carousel-arrows/arrow-left.png">',
-      '<img src="../img/carousel-arrows/arrow-right.png">',
+      '<img src="img/carousel-arrows/arrow-left.png">',
+      '<img src="img/carousel-arrows/arrow-right.png">',
     ],
     nav: true,
     dots: false,
@@ -52,8 +52,8 @@ $(document).ready(function () {
     center: true,
     margin: 140,
     navText: [
-      '<img src="../img/carousel-arrows/arrow-left.png">',
-      '<img src="../img/carousel-arrows/arrow-right.png">',
+      '<img src="img/carousel-arrows/arrow-left.png">',
+      '<img src="img/carousel-arrows/arrow-right.png">',
     ],
     nav: true,
     dots: false,
